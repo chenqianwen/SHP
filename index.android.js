@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
         textAlignVertical:'center',
         borderRadius:8,
         fontSize:20,
-        marginBottom:10
+        marginBottom:10,
     },
     loginBtn:{
         width:260,
