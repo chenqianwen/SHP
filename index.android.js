@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
         textAlignVertical:'center',
         borderRadius:8,
         fontSize:20,
-        marginBottom:50
+        marginBottom:50,
     }
 });
 
